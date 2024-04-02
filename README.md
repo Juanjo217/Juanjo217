@@ -1,4 +1,6 @@
-### Hola, soy Juan José Campos Gómez. Ahora mismo estoy cursando un grado superior de informática (Administrador de sistemas informáticos en red "ASIR") en IES Rodrigo caro, actualmente resido en sevilla.
+### Hola, soy Juan José Campos Gómez. 
+## Ahora mismo estoy cursando un grado superior de informática (Administrador de sistemas informáticos en red "ASIR") en IES Rodrigo caro.
+## Actualmente resido en sevilla.
 
 <!--
 **Juanjo217/Juanjo217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
